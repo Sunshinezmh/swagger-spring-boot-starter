@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.github.sunshinezmh</groupId>
     <artifactId>swagger-spring-boot-starter</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>swagger-spring-boot-starter</name>
     <description>Demo project for Spring Boot</description>
 
@@ -66,7 +66,7 @@
         <dependency>
             <groupId>com.github.sunshinezmh</groupId>
             <artifactId>swagger-spring-boot-autoconfigure</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.3-SNAPSHOT</version>
         </dependency>
 
         <dependency>
