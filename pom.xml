@@ -14,6 +14,14 @@
     <name>swagger-spring-boot-starter</name>
     <description>Demo project for Spring Boot</description>
 
+    <!--从私服拉取jar包-->
+    <repositories>
+        <repository>
+            <id>sunshineNexus</id>
+            <url>http://192.168.3.18:8081/repository/best-practices-release/</url>
+        </repository>
+    </repositories>
+
     <!-- 开源签名证书 -->
     <licenses>
         <license>
