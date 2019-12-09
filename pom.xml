@@ -206,7 +206,7 @@
         <repository>
             <!--此名称要和.m2/settings.xml中设置的ID一致 -->
             <id>sunshineNexus</id>
-            <url>http://192.168.3.18:8081/repository/best-practices-release/</url>
+            <url>http://192.168.191.131:8081/repository/sunshine-release/</url>
         </repository>
     </distributionManagement>
 
